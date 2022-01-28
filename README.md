@@ -6,6 +6,21 @@ SCI course retrieval system
 
 ----
 
+```javascript
+function fancyAlert(arg){
+        if(arg){
+            $.facebox({div:'#foo'})
+            }
+}
+```
+
+```python
+for i in range(100):
+print(i)
+
+```
+
+
 
 ### home page 
 <img width="600" alt="portfolio_view" src="https://user-images.githubusercontent.com/39432361/147499889-8cf99346-3586-495a-84bb-b185df83ef6c.png">
