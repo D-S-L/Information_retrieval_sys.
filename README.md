@@ -1,8 +1,8 @@
 # IR_project_2021fall
 SCI course retrieval system
 
-- [x] best matching search
-- [x] exact search
+- [x] ***best matching search***
+- [x] ***exact search***
 
 
 ### home page 
