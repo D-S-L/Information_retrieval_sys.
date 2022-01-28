@@ -6,6 +6,19 @@ SCI course retrieval system
 
 ----
 
+```javascript
+function fancyAlert(arg){
+        if(arg){
+            $.facebox({div:'#foo'})
+            }
+}
+```
+
+```python
+for i in range(100):
+print(i)
+
+```
 
 
 
